@@ -1,35 +1,28 @@
-<h1 align="center">🧮 Exercícios em C++</h1>
+# 🧮 Exercícios em C++
 
-<p align="center">
-  <img src="https://img.shields.io/badge/linguagem-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-Repositório com **exercícios em C++** voltados ao desenvolvimento da lógica de programação e à consolidação dos conceitos fundamentais da linguagem.
+Este repositório contém o mapeamento, a estruturação cronológica e os scripts de implementação prática para o ecossistema de aprendizado e consolidação de lógica de programação utilizando a linguagem C++.
 
 ---
 
 ## 🎯 Objetivo
 
-Aprimorar habilidades em **C++** por meio da resolução de exercícios práticos, com foco em estruturas básicas, manipulação de dados e organização do código.
+O propósito deste projeto é estruturar a arquitetura de aprendizado necessária para gerenciar a evolução de lógica conceitual e algorítmica, garantindo a fixação de estruturas condicionais, laços de repetição, matrizes e modularização por meio de resoluções práticas organizadas por períodos mensais.
 
 ---
 
-## 📂 Estrutura dos exercícios
+## 📂 Estrutura do Repositório
 
-Os exercícios estão organizados em **pastas mensais**, facilitando o acompanhamento da evolução.  
-Os principais temas abordados incluem:
+O projeto combina a organização temporal de arquivos de código com diferentes abordagens e níveis de complexidade sintática:
 
-- **Variáveis e tipos de dados**
-- **Estruturas condicionais** (`if`, `else`, `switch`)
-- **Laços de repetição** (`for`, `while`, `do-while`)
-- **Vetores e matrizes**
-- **Funções**
-
-Os arquivos são nomeados conforme o tema e contêm comentários para facilitar o entendimento.
+### 📅 Organização por Pastas Mensais
+Os exercícios estão estruturados cronologicamente para refletir a evolução contínua dos seguintes fundamentos do ecossistema C++:
+* **Estruturas de Controle:** Implementação de tomadas de decisão condicionais (`if`, `else`, `switch`).
+* **Laços de Repetição:** Controle de iterações e fluxos repetitivos baseados em condições (`for`, `while`, `do-while`).
+* **Estruturas de Dados:** Manipulação e indexação de coleções estáticas através de vetores e matrizes.
+* **Modularização:** Organização, reaproveitamento de código e escopo utilizando funções nativas e personalizadas.
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 🛠️ Tecnologias
 
-- **C++**
-- **Ambiente de desenvolvimento:** Online GDB
+* **C++**
